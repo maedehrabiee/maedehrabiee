@@ -44,5 +44,5 @@
 </p>
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/maedeh-rabiee/)](https://www.linkedin.com/in/maede-rabiee-76b91b81/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maede-rabiee-76b91b81/)  
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maedeh.rabiee@studenti.unimi.it)
