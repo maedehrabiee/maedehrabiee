@@ -10,8 +10,8 @@
 ## 🔰 About Me
 - 🎓 BSc & MSc in **Accounting**; currently **MSc in Data Science for Economics** @ **University of Milan (UniMi)**
 - 💙 I truly enjoy **working and playing with data**
-- 🧪 Currently working on  projects: **Deep-Learning Rock–Paper–Scissors**, **Amazon Reviews Similarity**
-- 🌱Learning: **Convolutional Neural Networks (CNN), Natural Language Processing (NLP), PySpark**
+- 🧪 Currently working on  projects: **Currently pursuing thesis internship possibilities in Denmark**
+- 🌱Learning: **Natural Language Processing (NLP)**
 - 🌿 Interests: **Nature trips, Movies, Reading books**
 
 ---
