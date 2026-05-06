@@ -21,6 +21,7 @@
   <img alt="Python" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   &nbsp;&nbsp;&nbsp;
   <img alt="R" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  
 </p>
 
 <p>
@@ -36,7 +37,3 @@
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maede-rabiee-76b91b81/)  
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maedeh.rabiee@studenti.unimi.it)
